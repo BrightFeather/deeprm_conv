@@ -27,12 +27,12 @@ File: environment.py
 See picture below for better explanation:
 
 <img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm%20state%20space.png" alt="Original state matrix" title="Original state matrix" height="175" />
-*Original state matrix*
+<center>Original state matrix</center>
 
 
 
 <img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm2%20state%20space.png" alt="Reshaped state matrix" title="Reshaped state matrix" height="305" />
-*Reshaped state matrix*
+<center>Reshaped state matrix</center>
 
 
 
@@ -41,6 +41,7 @@ See picture below for better explanation:
 #### Rewrite penalty function. 
 
 File: parameters.py 
+
  I gave different weights of penalty for jobs already planned(in machine matrix), jobs in jobslot queue and jobs in backlog.  Minor improvement. Improved convergence rate.
 
 ## Others  
