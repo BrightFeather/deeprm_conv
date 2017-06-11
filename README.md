@@ -27,12 +27,12 @@ File: environment.py
 See picture below for better explanation:
 
 <img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm%20state%20space.png" alt="Original state matrix" title="Original state matrix" height="175" />
-<center>Original state matrix</center>
+**Original state matrix**
 
 
 
 <img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm2%20state%20space.png" alt="Reshaped state matrix" title="Reshaped state matrix" height="305" />
-<center>Reshaped state matrix</center>
+**Reshaped state matrix**
 
 
 
