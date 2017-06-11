@@ -26,9 +26,10 @@ File: environment.py
  
 See picture below for better explanation:
 
-![Original state matrix](https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm%20state%20space.png "Original state matrix")
+<img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm%20state%20space.png" alt="Original state matrix" title="Original state matrix" height="35" />
 
-![Reshaped state matrix](https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm2%20state%20space.png "Reshaped state matrix")
+<img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm2%20state%20space.png" alt="Original state matrix" title="Original state matrix" height="61" />
+
 
 
  Major improvement. Improved the average slowdown by 8.9% after 1000 epochs of training.
