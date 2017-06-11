@@ -26,9 +26,10 @@ File: environment.py
  
 See picture below for better explanation:
 
-<img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm%20state%20space.png" alt="Original state matrix" title="Original state matrix" height="35" />
+<img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm%20state%20space.png" alt="Original state matrix" title="Original state matrix" height="175" />
 
-<img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm2%20state%20space.png" alt="Original state matrix" title="Original state matrix" height="61" />
+
+<img src="https://github.com/BrightFeather/deeprm_conv/blob/master/deeprm2%20state%20space.png" alt="Original state matrix" title="Original state matrix" height="305" />
 
 
 
